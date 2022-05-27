@@ -1,0 +1,14 @@
+.frnTitle {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+    display: inline;
+}
+
+p {
+    text-align: center;
+}
